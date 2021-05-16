@@ -1,0 +1,21 @@
+img{
+width:40%;
+}
+body{
+text-align:center;
+ background:linear-gradient(#303F9F 0%, #AA00FF 100%)
+}
+h1{
+ text-shadow:2px 2px #651FFF;
+  font-size:20px;
+}
+p{
+font-size:20px;
+}
+#bio{
+ padding:20px;
+  font-size:18;
+  text-align:center;
+}
+.links:hover{
+color: aqua:
